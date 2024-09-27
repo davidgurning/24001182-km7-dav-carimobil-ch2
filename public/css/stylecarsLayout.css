@@ -1,0 +1,18 @@
+.header {
+  z-index: -999;
+  height: 100vh;
+}
+
+.search-menu {
+  z-index: 999;
+  margin-top: -250px;
+}
+
+.coba {
+  background-color: #f1f3ff;
+}
+
+.footer-layout {
+  z-index: -999;
+  margin-top: 500px;
+}
