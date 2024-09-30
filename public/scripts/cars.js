@@ -1,4 +1,4 @@
-import carsData from "../../data/cars.json" with {type: "json"};
+import carsData from "../data/cars.json" with {type: "json"};
 
 console.log (carsData);
 
